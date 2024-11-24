@@ -15,7 +15,12 @@ Cite as:
 
 Our group is opposed to the bill, but I expect it will still get passed down the line. Social media bans for children are popular because they seem like a solution (which they aren't, see below) and the Labor party would probably benefit from the increased support that the bill would bring them. Given the current timelines, I'd expect that the Bill _won't_ go in front of Parliament again before the election. Instead it will likely get raised as an election promise, in which case it will simply be passed as a part of the government's perceived mandate if they win. That way we'll see a social media ban enforced in the future _irrespecive of the evidence base for their effectiveness_.
 
-In any case, we think that the bill is a bad idea for a few reasons: (1) it's badly constructed policy, with structural factors limiting expert testimony that could fix this; (2) it's not based on evidence, and is instead based on speculative materials from non-experts. (3) even if we were to accept that this was a problem, there are better solutions that could be employed that would be less disruptive to the rest of the country. Probably the part that is most grating about the proposal is that it's largely built on the popularity of Haidt's work, which is not scientific, and for which the proposed solutions are largely terrible.
+In any case, we think that the bill is a bad idea for a few reasons:
+1. it's badly constructed policy, with structural factors limiting expert testimony that could fix this;
+2. it's not based on evidence, and is instead based on speculative materials from non-experts.
+3. even if we were to accept that this was a problem, there are better solutions that could be employed that would be less disruptive to the rest of the country.
+
+The part that is most grating about the proposal is that it's largely built on the popularity of Haidt's work, which is not scientific, and for which the proposed solutions are largely terrible.
 
 Media bans are popular, but they focus on what _looks like the problem_ rather than what _is the problem_. People want to ban phones for kids because the phone is what we can see when we watch other people play games, or go on social media, or watch pornography, or whatever. The phone is really just the part of the experience that's visible to other people. It's hard to understand or see the emotional nature of the content, the rhythms of content recommendation, the dark patterns that push users to keep engaging. Banning social media doesn't fix that problem, and it pushes bullying and body image issues to other spaces, it doesn't fix them.
 
