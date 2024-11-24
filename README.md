@@ -1,16 +1,8 @@
 # Writing
+
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
 A library of reports, submissions, and papers that I've written, collected here in one easy location for sharing.
-
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
-
-This work is licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
-
-[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
-
-[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
-[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
-[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
 ## About the files
 
@@ -36,3 +28,15 @@ A response to the New South Wales Government's ban of non-educational use of pho
 
 Cite as:
 > Mannell, K., & Fordyce, R. (2018). Review into Non-Educational Use of Mobile Devices in NSW Schools. NSW Department of Education. https://doi.org/10.5281/zenodo.14213206
+
+
+## License
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
