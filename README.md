@@ -12,7 +12,7 @@ This work is licensed under a
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
-# About the files
+## About the files
 
 ### Fordyce, Mannell, Yang, and Moore - Submission to the Online Safety Amendment (Social Media Minimum Age) Bill 2024
 
@@ -28,6 +28,7 @@ In any case, we think that the bill is a bad idea for a few reasons: (1) it's ba
 Media bans are popular, but they focus on what _looks like the problem_ rather than what _is the problem_. People want to ban phones for kids because the phone is what we can see when we watch other people play games, or go on social media, or watch pornography, or whatever. The phone is really just the part of the experience that's visible to other people. It's hard to understand or see the emotional nature of the content, the rhythms of content recommendation, the dark patterns that push users to keep engaging. Banning social media doesn't fix that problem, and it pushes bullying and body image issues to other spaces, it doesn't fix them.
 
 My personal stance is that, if we're banning young people from social media because it's bad for them, then we should also ban social media for other age groups too. It's not that social media is espcially awful compared to other issues we face, but that the way that it's bad is kinda bad for everyone.
+
 
 ### Mannell, Fordyce - Review into Non-Educational Use of Mobile Devices in NSW Schools
 
